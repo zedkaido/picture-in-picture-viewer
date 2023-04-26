@@ -1,8 +1,16 @@
 {
-  "name": "Picture-in-Picture Extension (by Google)",
-  "description": "Watch video using Picture-in-Picture",
-  "version": "1.11",
+  "name": "Picture-in-Picture Viewer",
+  "short_name": "PiP Viewer",
+  "description": "Watch video using the Picture-in-Picture API.",
+  "manifest_version": 3,
+  "version": "1.12.1",
+  "version_name": "1.12.1",
   "icons": {
+    "16": "assets/icon16.png",
+    "24": "assets/icon24.png",
+    "32": "assets/icon32.png",
+    "48": "assets/icon48.png",
+    "64": "assets/icon64.png",
     "128": "assets/icon128.png"
   },
   "background": {
@@ -24,16 +32,11 @@
       }
     }
   },
-  "options_ui": {
-    "page": "options.html",
-    "open_in_tab": false
-  },
   "permissions": [
     "scripting",
     "storage"
   ],
   "host_permissions": [
     "<all_urls>"
-  ],
-  "manifest_version": 3
+  ]
 }
