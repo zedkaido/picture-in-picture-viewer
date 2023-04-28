@@ -2,7 +2,7 @@
 
 A simple Chromium Extension to demonstrate the [Picture-in-Picture Web API](https://wicg.github.io/picture-in-picture/) in Chromium.
 
-Get it on the Chrome Web Store at https://chrome.google.com/webstore/detail/hkgfoiooedgoejojocmhlaklaeopbecg
+Get it on the Chrome Web Store at https://chrome.google.com/webstore/detail/picture-in-picture-viewer/kgfcmiijchdkbknmjnojfngnapkibkdh
 
 <img src="https://raw.githubusercontent.com/Alex313031/picture-in-picture-viewer/master/Screenshot.png" width="900">
 
